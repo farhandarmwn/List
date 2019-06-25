@@ -1,0 +1,7 @@
+D:\18.11.2273\Object 7\Collection2\Collection2\bin\Debug\Collection2.exe.config
+D:\18.11.2273\Object 7\Collection2\Collection2\bin\Debug\Collection2.exe
+D:\18.11.2273\Object 7\Collection2\Collection2\bin\Debug\Collection2.pdb
+D:\18.11.2273\Object 7\Collection2\Collection2\obj\Debug\Collection2.csproj.CoreCompileInputs.cache
+D:\18.11.2273\Object 7\Collection2\Collection2\obj\Debug\Collection2.exe
+D:\18.11.2273\Object 7\Collection2\Collection2\obj\Debug\Collection2.pdb
+D:\18.11.2273\Object 7\Collection2\Collection2\obj\Debug\Collection2.csprojAssemblyReference.cache
